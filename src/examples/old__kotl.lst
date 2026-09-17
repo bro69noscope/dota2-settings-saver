@@ -1,0 +1,131 @@
+		"npc_dota_hero_keeper_of_the_light"
+		{
+			"AbilityPrimary1"
+			{
+				"Mode"		"0"
+				"Channel"		"2"
+			}
+			"AbilitySecondary1"
+			{
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"F"
+				"Mode"		"0"
+			}
+			"TalentUpgradeStatLeft"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeStatRight"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeAttribute"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Mode"		"-1"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"-1"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"D"
+				"Mode"		"-1"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"-1"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"ChannelCancel"		"ALT"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Mode"		"-1"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"ChannelCancel"		"ALT"
+				"Mode"		"-1"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"d"
+				"Modifier"		"ALT"
+				"ChannelCancel"		"ALT"
+				"Mode"		"-1"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Mode"		"-1"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"ChannelCancel"		"ALT"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"f"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+				"ChannelCancel"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Mode"		"-1"
+			}
+		}

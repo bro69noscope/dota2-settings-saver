@@ -1,0 +1,4 @@
+[tool.basedpyright]
+typeCheckingMode = "standard"
+[tool.ruff]
+[tool.ruff.lint]

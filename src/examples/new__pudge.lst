@@ -1,0 +1,37 @@
+"npc_dota_hero_pudge"
+{
+	"TalentUpgradeStatLeft"       { "Key" "6" "Mode" "0" }
+	"TalentUpgradeStatRight"      { "Key" "8" "Mode" "0" }
+	"TalentUpgradeAttribute"      { "Key" "7" "Mode" "0" }
+	"NeutralItemSelect1"          { "Key" "1" "Mode" "-1" }
+	"NeutralItemSelect2"          { "Key" "2" "Mode" "-1" }
+	"NeutralItemSelect3"          { "Key" "3" "Mode" "-1" }
+	"NeutralItemSelect4"          { "Key" "4" "Mode" "-1" }
+
+	"AbilityPrimary1"             { "Key" "1" "Mode" "0" }
+	"AbilityPrimary1QuickCast"    { "Mode" "1" }
+	"AbilityPrimary1AutoCastAlternate2" { "Mode" "-1" }
+	"AbilityPrimary1AutoCast"     { "Key" "1" "Modifier" "ALT" "Mode" "0" "ChannelCancel" "ALT" }
+
+	"AbilityPrimary2QuickCast"    { "Key" "2" "Mode" "1" }
+	"AbilityPrimary2AutoCastAlternate2" { "Key" "2" "Modifier" "ALT" "ChannelCancel" "ALT" "Mode" "-1" }
+	"AbilityPrimary2AutoCast"     { "Mode" "0" }
+
+	"AbilityPrimary3QuickCast"    { "Key" "3" "Mode" "1" }
+	"AbilityPrimary3AutoCastAlternate2" { "Key" "3" "Modifier" "ALT" "ChannelCancel" "ALT" "Mode" "-1" }
+	"AbilityPrimary3AutoCast"     { "Mode" "0" }
+
+	"AbilitySecondary1QuickCast"  { "Key" "E" "Mode" "1" }
+	"AbilitySecondary1AutoCastAlternate2" { "Key" "e" "Modifier" "ALT" "ChannelCancel" "ALT" "Mode" "-1" }
+	"AbilitySecondary1AutoCast"   { "Mode" "0" }
+
+	"AbilitySecondary2QuickCast"  { "Key" "R" "Mode" "1" }
+	"AbilitySecondary2AutoCastAlternate2" { "Key" "r" "Modifier" "ALT" "ChannelCancel" "ALT" "Mode" "-1" }
+	"AbilitySecondary2AutoCast"   { "Mode" "0" }
+
+	"AbilityUltimateQuickCast"    { "Key" "4" "Mode" "1" }
+	"AbilityUltimateAutoCastAlternate2" { "Key" "4" "Modifier" "ALT" "ChannelCancel" "ALT" "Mode" "-1" }
+	"AbilityUltimateAutoCast"    { "Mode" "0" }
+}
+
+
